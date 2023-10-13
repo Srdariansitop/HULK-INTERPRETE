@@ -1,0 +1,6 @@
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\bin\Debug\HULK Compiler.exe.config
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\bin\Debug\HULK Compiler.exe
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\bin\Debug\HULK Compiler.pdb
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\obj\Debug\HULK Compiler.csprojResolveAssemblyReference.cache
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\obj\Debug\HULK Compiler.exe
+C:\Users\Toshiba1\Desktop\DARY 10\Proyectos de la escuela\HULK Compiler\HULK Compiler\obj\Debug\HULK Compiler.pdb
